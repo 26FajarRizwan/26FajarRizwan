@@ -1,11 +1,11 @@
 <div align="center">
 
-<!-- Animated Typing Banner Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=34&duration=3500&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Fajar+Rizwan+%F0%9F%91%8B;Autonomous+AI+Systems+Engineer;Full-Stack+Developer+%26+Automation+Expert" alt="Typing SVG" />
+# ✨ Hi there, I'm Fajar Rizwan 👋
 
-<br><br>
+### 🚀 Autonomous AI Systems Engineer & Full-Stack Developer
 
-<!-- Contact Badges -->
+<br>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fajar-rizwan-10a657374/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itsfjr20@gmail.com)
 
@@ -88,31 +88,17 @@
 
 ---
 
-## 🌟 Top Featured Repositories
-
-> *Directly link your favorite project repositories here so they never break! Replace `#` with your actual repo links.*
-
-<div align="center">
-
-| 📂 Repository Name | 📝 Description | ⚡ Tech Stack |
-| :--- | :--- | :--- |
-| **[AI Email Triage Agent](https://github.com/26FajarRizwan)** | Local folder-based automated intelligence system for sorting emails without OpenAI keys. | `Python`, `CrewAI` |
-| **[n8n Workflow Automations](https://github.com/26FajarRizwan)** | Streamlined local webhook integrations and smart routing flows. | `n8n`, `Webhooks` |
-| **[Streamlit AI Workspace](https://github.com/26FajarRizwan)** | Clean, modern web frontend control panels for real-time agent output monitoring. | `Streamlit`, `Python` |
-
-</div>
-
----
-
 ## 📊 GitHub Stats & Metrics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=26FajarRizwan&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0d1117" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=26FajarRizwan&layout=compact&theme=tokyonight&hide_border=false&bg_color=0d1117&langs_count=7" width="48%" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=26FajarRizwan&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0d1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=26FajarRizwan&layout=compact&theme=tokyonight&hide_border=false&bg_color=0d1117&langs_count=7" width="48%" />
+</p>
 
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=26FajarRizwan&theme=tokyonight&hide_border=false&background=0d1117" width="100%" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=26FajarRizwan&theme=tokyonight&hide_border=false&background=0d1117" width="98%" />
+</p>
 
 </div>
