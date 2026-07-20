@@ -1,7 +1,7 @@
 <!-- 🌟 Center Title and Professional Header 🌟 -->
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=40&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Fajar+Rizwan+%F0%9F%91%8B;Autonomous+AI+Systems+Engineer;Full-Stack+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=40&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Hi+there%2C+  I'm+Fajar+Rizwan+%F0%9F%91%8B; Autonomous+AI+Systems+Engineer;Full-Stack+Developer" alt="Typing SVG" />
 
 <br>
 
