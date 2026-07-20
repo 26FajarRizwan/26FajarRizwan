@@ -1,11 +1,11 @@
 <div align="center">
 
-# Hi there, I'm Fajar Rizwan 👋
+<!-- Animated Typing Banner Header -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=34&duration=3500&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Fajar+Rizwan+%F0%9F%91%8B;Autonomous+AI+Systems+Engineer;Full-Stack+Developer+%26+Automation+Expert" alt="Typing SVG" />
 
-### 🚀 Autonomous AI Systems Engineer & Full-Stack Developer
+<br><br>
 
-<br>
-
+<!-- Contact Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fajar-rizwan-10a657374/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itsfjr20@gmail.com)
 
@@ -15,50 +15,92 @@
 
 ## 🛠️ About Me
 
-* 🔭 **Currently Working On:** Architecting production-ready, autonomous multi-agent systems using CrewAI, modular Python architectures, and local workflow automations (n8n).
-* 🤝 **Open to Collaboration:** Open-source AI engineering tools, scalable Python backend development, and intelligent workflow automation systems.
-* 💡 **Seeking Help With:** Advanced multi-agent testing environments and deploying highly sandboxed context-window pipelines.
-* 🌱 **Currently Learning:** Deep enterprise architectures using Anthropic's Claude API, advanced context window management, and custom client-side tool execution loops.
-* 💬 **Ask Me About:** Multi-agent orchestration frameworks, pure Python script optimization, systematic prompt engineering, and clean UI/UX design.
-* ⚡ **Fun Fact:** I built a fully automated, cost-efficient AI email triage officer that operates locally within directory folders without needing a single corporate OpenAI API key!
+> Here is a quick snapshot of my current focus, ongoing learning, and core capabilities:
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🚀 Currently Working On</h3>
+      <p>Architecting production-ready, autonomous multi-agent systems using <b>CrewAI</b>, modular Python architectures, and local workflow automations (n8n).</p>
+    </td>
+    <td width="50%">
+      <h3>🤝 Open To Collaboration</h3>
+      <p>Actively looking to build open-source AI engineering tools, scalable Python backend systems, and automated pipelines.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>💡 Seeking Help With</h3>
+      <p>Advanced multi-agent testing environments, optimizing token limits, and deploying highly sandboxed context-window pipelines.</p>
+    </td>
+    <td>
+      <h3>🌱 Currently Learning</h3>
+      <p>Deep enterprise architectures using Anthropic's <b>Claude API</b>, advanced context management, and custom tool execution loops.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>💬 Ask Me About</h3>
+      <p>Multi-agent orchestration frameworks, pure Python script optimization, systematic prompt engineering, and clean web UI/UX.</p>
+    </td>
+    <td>
+      <h3>⚡ Fun Fact</h3>
+      <p>I built a fully automated, cost-efficient AI email triage officer that operates locally within directory folders without any corporate OpenAI API key!</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 💻 Core Technical Stack
+## 💻 Expanded Technical Stack
 
 ### **Languages & Core**
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/)
-[![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/)
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
-### **AI & Frameworks**
-[![CrewAI](https://img.shields.io/badge/CrewAI-101010?style=flat-square&logo=artificial-intelligence&logoColor=white)](https://www.crewai.com/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-[![n8n](https://img.shields.io/badge/n8n-FF6600?style=flat-square&logo=n8n&logoColor=white)](https://n8n.io/)
+### **Frameworks & AI Orchestration**
+<p>
+  <img src="https://img.shields.io/badge/CrewAI-101010?style=for-the-badge&logo=artificial-intelligence&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-FF6600?style=for-the-badge&logo=n8n&logoColor=white" />
+</p>
 
-### **Databases & Tools**
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)](https://supabase.com/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+### **Databases, Cloud & Tools**
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
 ---
 
 ## 🌟 Top Featured Repositories
 
-*You can display your best repositories directly using GitHub's repository card generator below. Just replace `26FajarRizwan` and `repo-name` with your actual repository names!*
+> *Directly link your favorite project repositories here so they never break! Replace `#` with your actual repo links.*
 
-<p align="center">
-  <a href="https://github.com/26FajarRizwan">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=26FajarRizwan&repo=YOUR_REPO_NAME_1&theme=tokyonight&hide_border=false&bg_color=0d1117" width="48%" />
-  </a>
-  <a href="https://github.com/26FajarRizwan">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=26FajarRizwan&repo=YOUR_REPO_NAME_2&theme=tokyonight&hide_border=false&bg_color=0d1117" width="48%" />
-  </a>
-</p>
+<div align="center">
+
+| 📂 Repository Name | 📝 Description | ⚡ Tech Stack |
+| :--- | :--- | :--- |
+| **[AI Email Triage Agent](https://github.com/26FajarRizwan)** | Local folder-based automated intelligence system for sorting emails without OpenAI keys. | `Python`, `CrewAI` |
+| **[n8n Workflow Automations](https://github.com/26FajarRizwan)** | Streamlined local webhook integrations and smart routing flows. | `n8n`, `Webhooks` |
+| **[Streamlit AI Workspace](https://github.com/26FajarRizwan)** | Clean, modern web frontend control panels for real-time agent output monitoring. | `Streamlit`, `Python` |
+
+</div>
 
 ---
 
@@ -67,7 +109,9 @@
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=26FajarRizwan&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0d1117" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=26FajarRizwan&layout=compact&theme=tokyonight&hide_border=false&bg_color=0d1117" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=26FajarRizwan&layout=compact&theme=tokyonight&hide_border=false&bg_color=0d1117&langs_count=7" width="48%" />
+
+<br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=26FajarRizwan&theme=tokyonight&hide_border=false&background=0d1117" width="100%" />
 
