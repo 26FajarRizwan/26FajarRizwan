@@ -128,49 +128,6 @@ Enterprise architectures using Anthropic's **Claude API**, advanced context mana
 
 ---
 
-## 📌 Pinned Repositories
-
-<table>
-<tr>
-<td width="50%">
-<a href="https://github.com/26FajarRizwan/CrewAI-Gmail-Automation-Agent">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=26FajarRizwan&repo=CrewAI-Gmail-Automation-Agent&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=22D3EE&text_color=C9D1D9"/>
-</a>
-</td>
-<td width="50%">
-<a href="https://github.com/26FajarRizwan/Rag-Pipeline">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=26FajarRizwan&repo=Rag-Pipeline&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=22D3EE&text_color=C9D1D9"/>
-</a>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<a href="https://github.com/26FajarRizwan/Ai_Video_Analyzer">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=26FajarRizwan&repo=Ai_Video_Analyzer&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=22D3EE&text_color=C9D1D9"/>
-</a>
-</td>
-<td width="50%">
-<a href="https://github.com/26FajarRizwan/Cold_Email_Replier_Agent">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=26FajarRizwan&repo=Cold_Email_Replier_Agent&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=22D3EE&text_color=C9D1D9"/>
-</a>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<a href="https://github.com/26FajarRizwan/OIBSIP_AI_Voice_Assistant">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=26FajarRizwan&repo=OIBSIP_AI_Voice_Assistant&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=22D3EE&text_color=C9D1D9"/>
-</a>
-</td>
-<td width="50%">
-<a href="https://github.com/26FajarRizwan/26FajarRizwan">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=26FajarRizwan&repo=26FajarRizwan&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=22D3EE&text_color=C9D1D9"/>
-</a>
-</td>
-</tr>
-</table>
-
----
-
 
 
 ## 🎯 GitHub Activity Graph
