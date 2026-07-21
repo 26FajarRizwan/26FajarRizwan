@@ -2,7 +2,7 @@
 
 # ✨ Hi there, I'm Fajar Rizwan 👋
 
-### 🚀 Autonomous AI Systems Engineer & Full-Stack Developer
+### 🚀 Autonomous AI Syatems Engineer & Full-Stack Developer & Graphic Designer
 
 <br>
 
