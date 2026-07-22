@@ -111,14 +111,6 @@ Enterprise architectures using Anthropic's **Claude API**, advanced context mana
 <img height="165" src="https://streak-stats.demolab.com?user=26FajarRizwan&theme=radical&hide_border=true&background=0D1117&ring=8B5CF6&fire=22D3EE&currStreakLabel=8B5CF6"/>
 </div>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=26FajarRizwan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9"/>
-</div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=26FajarRizwan&theme=radical&no-frame=true&no-bg=true&row=1&column=6"/>
-</div>
-
 ---
 
 ## 🐍 Contribution Snake
@@ -126,60 +118,6 @@ Enterprise architectures using Anthropic's **Claude API**, advanced context mana
 <div align="center">
 <img src="https://raw.githubusercontent.com/26FajarRizwan/26FajarRizwan/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </div>
-
----
-
-## 📌 Pinned Repositories
-
-<table>
-<tr>
-<td width="50%">
-<a href="https://github.com/26FajarRizwan/CrewAI-Gmail-Automation-Agent">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=26FajarRizwan&repo=CrewAI-Gmail-Automation-Agent&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=22D3EE&text_color=C9D1D9"/>
-</a>
-</td>
-<td width="50%">
-<a href="https://github.com/26FajarRizwan/Rag-Pipeline">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=26FajarRizwan&repo=Rag-Pipeline&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=22D3EE&text_color=C9D1D9"/>
-</a>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<a href="https://github.com/26FajarRizwan/Ai_Video_Analyzer">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=26FajarRizwan&repo=Ai_Video_Analyzer&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=22D3EE&text_color=C9D1D9"/>
-</a>
-</td>
-<td width="50%">
-<a href="https://github.com/26FajarRizwan/Cold_Email_Replier_Agent">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=26FajarRizwan&repo=Cold_Email_Replier_Agent&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=22D3EE&text_color=C9D1D9"/>
-</a>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<a href="https://github.com/26FajarRizwan/OIBSIP_AI_Voice_Assistant">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=26FajarRizwan&repo=OIBSIP_AI_Voice_Assistant&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=22D3EE&text_color=C9D1D9"/>
-</a>
-</td>
-<td width="50%">
-<a href="https://github.com/26FajarRizwan/26FajarRizwan">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=26FajarRizwan&repo=26FajarRizwan&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=22D3EE&text_color=C9D1D9"/>
-</a>
-</td>
-</tr>
-</table>
-
----
-
-## 🎓 Certifications
-
-| Certification | Issuer |
-|---|---|
-| _e.g. Python for Everybody_ | _e.g. University of Michigan (Coursera)_ |
-| _e.g. Introduction to Generative AI_ | _e.g. Google Cloud Skills Boost_ |
-
-> 📝 Apni actual certifications list bhej do, main fill kar dunga.
 
 ---
 
