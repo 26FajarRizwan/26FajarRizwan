@@ -16,7 +16,6 @@
 
 ## 🛠️ About Me
 
-> Full-Stack Developer | Python FastAPI & Next.js | Agentic AI Engineer (CrewAI) | Agentic Ai - NoCode || C++ | DBMS | MICROSOFT | Graphic designer | WEB DEVELOPMENT | Student at Lahore Garrison University
 > Building production-ready, autonomous multi-agent systems using **CrewAI**, open-source orchestration, full-stack development, and local workflow automation (**n8n**).
 
 <table>
@@ -45,6 +44,7 @@ Enterprise architectures using Anthropic's **Claude API**, advanced context mana
 - 🤖 Built a fully local AI email triage agent — zero corporate API key required!
 - 🐛 My code and my chai both need debugging at 2 AM.
 - 🎨 I secretly judge every UI I use by whether it has glassmorphism.
+- 🔁 My agents automate my emails; I still forget to reply to WhatsApp.
 
 </td>
 </tr>
@@ -107,8 +107,8 @@ Enterprise architectures using Anthropic's **Claude API**, advanced context mana
 ## 📊 GitHub Stats & Metrics
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=26FajarRizwan&show_icons=true&hide_border=true&bg_color=F5FAFF&title_color=0369A1&icon_color=0EA5E9&text_color=1E293B"/>
-<img height="165" src="https://streak-stats.demolab.com?user=26FajarRizwan&hide_border=true&background=F5FAFF&ring=0EA5E9&fire=0369A1&currStreakLabel=0EA5E9&sideLabels=1E293B&currStreakNum=1E293B&sideNums=1E293B&dates=1E293B"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=26FajarRizwan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=22D3EE&text_color=C9D1D9"/>
+<img height="165" src="https://streak-stats.demolab.com?user=26FajarRizwan&theme=radical&hide_border=true&background=0D1117&ring=8B5CF6&fire=22D3EE&currStreakLabel=8B5CF6"/>
 </div>
 
 <div align="center">
@@ -129,7 +129,59 @@ Enterprise architectures using Anthropic's **Claude API**, advanced context mana
 
 ---
 
+## 📌 Pinned Repositories
 
+<table>
+<tr>
+<td width="50%">
+<a href="https://github.com/26FajarRizwan/CrewAI-Gmail-Automation-Agent">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=26FajarRizwan&repo=CrewAI-Gmail-Automation-Agent&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=22D3EE&text_color=C9D1D9"/>
+</a>
+</td>
+<td width="50%">
+<a href="https://github.com/26FajarRizwan/Rag-Pipeline">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=26FajarRizwan&repo=Rag-Pipeline&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=22D3EE&text_color=C9D1D9"/>
+</a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<a href="https://github.com/26FajarRizwan/Ai_Video_Analyzer">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=26FajarRizwan&repo=Ai_Video_Analyzer&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=22D3EE&text_color=C9D1D9"/>
+</a>
+</td>
+<td width="50%">
+<a href="https://github.com/26FajarRizwan/Cold_Email_Replier_Agent">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=26FajarRizwan&repo=Cold_Email_Replier_Agent&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=22D3EE&text_color=C9D1D9"/>
+</a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<a href="https://github.com/26FajarRizwan/OIBSIP_AI_Voice_Assistant">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=26FajarRizwan&repo=OIBSIP_AI_Voice_Assistant&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=22D3EE&text_color=C9D1D9"/>
+</a>
+</td>
+<td width="50%">
+<a href="https://github.com/26FajarRizwan/26FajarRizwan">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=26FajarRizwan&repo=26FajarRizwan&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=22D3EE&text_color=C9D1D9"/>
+</a>
+</td>
+</tr>
+</table>
+
+---
+
+## 🎓 Certifications
+
+| Certification | Issuer |
+|---|---|
+| _e.g. Python for Everybody_ | _e.g. University of Michigan (Coursera)_ |
+| _e.g. Introduction to Generative AI_ | _e.g. Google Cloud Skills Boost_ |
+
+> 📝 Apni actual certifications list bhej do, main fill kar dunga.
+
+---
 
 ## 🎯 GitHub Activity Graph
 
@@ -140,5 +192,5 @@ Enterprise architectures using Anthropic's **Claude API**, advanced context mana
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
-<sub>⚡ Thanks for stopping by — let's build something autonomous together CONNECT WITH ME .</sub>
+<sub>⚡ Thanks for stopping by — let's build something autonomous together.</sub>
 </div>
