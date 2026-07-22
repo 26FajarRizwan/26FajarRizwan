@@ -107,8 +107,8 @@ Enterprise architectures using Anthropic's **Claude API**, advanced context mana
 ## 📊 GitHub Stats & Metrics
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=26FajarRizwan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=22D3EE&text_color=C9D1D9"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=26FajarRizwan&theme=radical&hide_border=true&background=0D1117&ring=8B5CF6&fire=22D3EE&currStreakLabel=8B5CF6"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=26FajarRizwan&show_icons=true&hide_border=true&bg_color=F5FAFF&title_color=0369A1&icon_color=0EA5E9&text_color=1E293B"/>
+<img height="165" src="https://streak-stats.demolab.com?user=26FajarRizwan&hide_border=true&background=F5FAFF&ring=0EA5E9&fire=0369A1&currStreakLabel=0EA5E9&sideLabels=1E293B&currStreakNum=1E293B&sideNums=1E293B&dates=1E293B"/>
 </div>
 
 <div align="center">
